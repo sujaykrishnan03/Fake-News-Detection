@@ -3,6 +3,7 @@ which contains
       preprocess.py
       train_model.py
       app.py
+      dataset.csv
 
 Steps to run backend:
       run the preprocess file once 
@@ -11,4 +12,5 @@ Steps to run backend:
       train model is to train dataset on machine learning model
       app.py is to host the development server and to run the app
 
-note: every file should be in same folder
+note: all file should be in same folder
+      dataset should be named as the name in the train_model file
